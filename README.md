@@ -1,12 +1,11 @@
 <head>
   <meta charset="UTF-8">
-  <title>Nexo Logîn </title>
-  
-  <meta name="description" content="Nexo Login, the most powerful and user-friendly crypto trading platform, is here to make all of your trading ambitions a reality.">
-  <meta name="keywords" content="Nexo Logîn">
-  <meta name="author" content="John Doe">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <a href="https://nexo.io/" target="_blank" rel="nofollow noopener"><img src="https://static.wikia.nocookie.net/nexlogizs/images/8/82/Vcbcvbxcbxvc.jpg" alt="Nexo Logîn" style="width:1099px;height:536px;"></a>
+  <title>Nexo Logîn</title>
+ <meta name="description" content="Nexo Login, the most powerful and user-friendly crypto trading platform, is here to make all of your trading ambitions a reality.">
+ <meta name="keywords" content="Nexo Logîn">
+ <meta name="author" content="John Doe">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <a href="https://nexo.io/" target="_blank" rel="nofollow noopener"><img src="https://static.wikia.nocookie.net/nexlogizs/images/8/82/Vcbcvbxcbxvc.jpg" alt="Nexo Logîn" style="width:1099px;height:536px;"></a>
 </head>
 <body>
   <div class="main_content_box">
