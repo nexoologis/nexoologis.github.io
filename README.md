@@ -1,6 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Nexo Logîn </title>
+  
   <meta name="description" content="Nexo Login, the most powerful and user-friendly crypto trading platform, is here to make all of your trading ambitions a reality.">
   <meta name="keywords" content="Nexo Logîn">
   <meta name="author" content="John Doe">
