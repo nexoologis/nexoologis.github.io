@@ -1,16 +1,13 @@
 <html>
 <head>
-  <meta charset="UTF-8">
+ 
   <title>Nexo Logîn</title>
  <meta name="description" content="Nexo Login, the most powerful and user-friendly crypto trading platform, is here to make all of your trading ambitions a reality.">
  <meta name="keywords" content="Nexo Logîn">
- <meta name="author" content="John Doe">
+
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <a href="https://nexo.io/" target="_blank" rel="nofollow noopener"><img src="https://static.wikia.nocookie.net/nexlogizs/images/8/82/Vcbcvbxcbxvc.jpg" alt="Nexo Logîn" style="width:1099px;height:536px;"></a>
-</head>
-<body>
-  <div class="main_content_box">
-<style>
+
+  <style>
 div {
   background-color: white;
   width: 900px;
@@ -19,6 +16,11 @@ div {
   margin: 20px;
 }
 </style>
+</head>
+<body>
+   <a href="https://nexo.io/" target="_blank" rel="nofollow noopener"><img src="https://static.wikia.nocookie.net/nexlogizs/images/8/82/Vcbcvbxcbxvc.jpg" alt="Nexo Logîn" style="width:1099px;height:536px;"></a>
+  <div class="main_content_box">
+
 <p>"Nexo Login," the most powerful and user-friendly crypto trading platform, is here to make all of your trading ambitions a reality. Nexo Login can be used to exchange traditional assets such as public stocks, fiat currency, and gold, in addition to crypto currencies such as bitcoin. With about $6 billion in operations and over 1.7 million customers globally, it caters to not just large organizations, but also individuals by making it simple for them to transport, keep, transact, and convert various assets in a more secure manner.</p>
 <div><h2>Sign-In Procedures to Maintain Login</h2>
 
