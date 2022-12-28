@@ -1,3 +1,4 @@
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Nexo Logîn</title>
@@ -56,3 +57,4 @@ div {
 <p>12.Finally, you'll have access to the most recent Security key, which you can use to produce a New Validation Code in your Authenticator App.</p></div>
 
 </body>
+  </html>
